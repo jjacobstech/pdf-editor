@@ -13,5 +13,8 @@
   "dependencies": {
     "@pspdfkit/nodejs": "^0.0.7",
     "pspdfkit": "^2024.8.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
   }
 }
